@@ -174,7 +174,7 @@ export default {
             </div>
             <div id="bannerword1"
                 class="w-[747px] h-[218px] text-white text-[180px] absolute top-[223px] left-[74px] font-bold sm-home:w-[286px] sm-home:h-[77px] sm-home:text-[64px] sm-home:top-[103px] sm-home:left-[27px]">
-                測試搭乘中客</div>
+                搭乘中客</div>
             <div id="bannerword2"
                 class="w-[800px] h-[155px] text-white font-bold text-[128px] absolute top-[751px] right-[0px] sm-home:[241px] sm-home:h-[140px] sm-home:text-[58px] sm-home:top-[516px] sm-home:left-[107px] sm-home:hidden">
                 享受幸福時刻</div>
